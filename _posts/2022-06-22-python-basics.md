@@ -1,8 +1,8 @@
 ---
-title:  "DS Interview Study Guide Part II: Software Engineering"
+title:  "Python Fundamentals"
 category: posts
-date: 2019-08-29
-excerpt: "Part II of my guide to data science interviews, focusing on algorithms, data structures, and general programming knowledge and best practices."
+date: 2022-06-21
+excerpt: "Python Fundamentals: Variables, Basic Arithematics, Strings, Control Flow, Exceptions, Functions, Collections(Lists, Tuples, Dictionaries) and Collection Comprehensions"
 ---
 
 This post continues my series on data science interviews. One of the major difficulty of
